@@ -1,0 +1,1078 @@
+fileFormatVersion: 2
+guid: bdb3fbb9b2c16514e9cabe266dc08f9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5106292277923058409
+    second: menu-gif_0
+  - first:
+      213: 8349482723706462867
+    second: menu-gif_1
+  - first:
+      213: 5493046542409762946
+    second: menu-gif_2
+  - first:
+      213: -1065251575330550457
+    second: menu-gif_3
+  - first:
+      213: -9125957589703683137
+    second: menu-gif_4
+  - first:
+      213: -5345529318791363415
+    second: menu-gif_5
+  - first:
+      213: -6361800684788183894
+    second: menu-gif_6
+  - first:
+      213: 7567011377866747132
+    second: menu-gif_7
+  - first:
+      213: -8223247845534868513
+    second: menu-gif_8
+  - first:
+      213: -6136598250486932461
+    second: menu-gif_9
+  - first:
+      213: -3382330113338138038
+    second: menu-gif_10
+  - first:
+      213: -4571426137013266089
+    second: menu-gif_11
+  - first:
+      213: -1441658571181106955
+    second: menu-gif_12
+  - first:
+      213: 1319098043322406665
+    second: menu-gif_13
+  - first:
+      213: 1965693993155429419
+    second: menu-gif_14
+  - first:
+      213: -8756516204248141937
+    second: menu-gif_15
+  - first:
+      213: 1779842812402998750
+    second: menu-gif_16
+  - first:
+      213: 2698269093873812873
+    second: menu-gif_17
+  - first:
+      213: -130112207385213443
+    second: menu-gif_18
+  - first:
+      213: -2372903503659695612
+    second: menu-gif_19
+  - first:
+      213: 2821750057069571343
+    second: menu-gif_20
+  - first:
+      213: -6624732200106210995
+    second: menu-gif_21
+  - first:
+      213: -1330384911936229458
+    second: menu-gif_22
+  - first:
+      213: 5100718572486328465
+    second: menu-gif_23
+  - first:
+      213: 3491797332031777568
+    second: menu-gif_24
+  - first:
+      213: -8301845131055392897
+    second: menu-gif_25
+  - first:
+      213: 1524755172130041316
+    second: menu-gif_26
+  - first:
+      213: 6066555507528334760
+    second: menu-gif_27
+  - first:
+      213: -4215276223689932793
+    second: menu-gif_28
+  - first:
+      213: 5797456817700297049
+    second: menu-gif_29
+  - first:
+      213: 3653571598184549862
+    second: menu-gif_30
+  - first:
+      213: -4387379599591200954
+    second: menu-gif_31
+  - first:
+      213: -381066665710870711
+    second: menu-gif_32
+  - first:
+      213: 4643401962630647319
+    second: menu-gif_33
+  - first:
+      213: 2579272449320820381
+    second: menu-gif_34
+  - first:
+      213: 1051167101360582524
+    second: menu-gif_35
+  - first:
+      213: -4390395189866142376
+    second: menu-gif_36
+  - first:
+      213: -4552627851057075709
+    second: menu-gif_37
+  - first:
+      213: -2782648906557404644
+    second: menu-gif_38
+  - first:
+      213: 473150528700813586
+    second: menu-gif_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menu-gif_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2373
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e29ce0c5c13dd640800000000000000
+      internalID: 5106292277923058409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2373
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392e8ccbc425fd370800000000000000
+      internalID: 8349482723706462867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2373
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28885071ab83b3c40800000000000000
+      internalID: 5493046542409762946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2373
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d4fff06577731f0800000000000000
+      internalID: -1065251575330550457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2373
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb39e6e6ce51a5180800000000000000
+      internalID: -9125957589703683137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2034
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a44109086dd0d5b0800000000000000
+      internalID: -5345529318791363415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2034
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac0d53cbf756b7a0800000000000000
+      internalID: -6361800684788183894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2034
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc2615a1cc630960800000000000000
+      internalID: 7567011377866747132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_8
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2034
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbd5e237a721ed80800000000000000
+      internalID: -8223247845534868513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_9
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2034
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c517e776c66daa0800000000000000
+      internalID: -6136598250486932461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1695
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42af59aeac8f01d0800000000000000
+      internalID: -3382330113338138038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1695
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759536a16280f80c0800000000000000
+      internalID: -4571426137013266089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1695
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f85a51fa233efbe0800000000000000
+      internalID: -1441658571181106955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1695
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90715287ea06e4210800000000000000
+      internalID: 1319098043322406665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_14
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1695
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b240627a54c874b10800000000000000
+      internalID: 1965693993155429419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1356
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f66dff7ea9a7680800000000000000
+      internalID: -8756516204248141937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1356
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd105d9b9543b810800000000000000
+      internalID: 1779842812402998750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1356
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98583c0e17d227520800000000000000
+      internalID: 2698269093873812873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1356
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5ccd103afb13ef0800000000000000
+      internalID: -130112207385213443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_19
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1356
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402851ae5d0c11fd0800000000000000
+      internalID: -2372903503659695612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1017
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0de1940abed82720800000000000000
+      internalID: 2821750057069571343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1017
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49c390d9293014a0800000000000000
+      internalID: -6624732200106210995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1017
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf6085a8f5898de0800000000000000
+      internalID: -1330384911936229458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1017
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1900944548469c640800000000000000
+      internalID: 5100718572486328465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1017
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b29635c2b557030800000000000000
+      internalID: 3491797332031777568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 678
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77132f96dbe9cc80800000000000000
+      internalID: -8301845131055392897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 678
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed204420c4092510800000000000000
+      internalID: 1524755172130041316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 678
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad7a64971cb03450800000000000000
+      internalID: 6066555507528334760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_28
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 678
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700cfc8ab945085c0800000000000000
+      internalID: -4215276223689932793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 678
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95951bb6244b47050800000000000000
+      internalID: 5797456817700297049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed0f37d20814b230800000000000000
+      internalID: 3653571598184549862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 339
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647229fdf75ec13c0800000000000000
+      internalID: -4387379599591200954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 339
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f9f82f2ed26baf0800000000000000
+      internalID: -381066665710870711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 339
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e83f3bb7da07040800000000000000
+      internalID: 4643401962630647319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 339
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e18b880aa6bc320800000000000000
+      internalID: 2579272449320820381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fac2cc8ee769e00800000000000000
+      internalID: 1051167101360582524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855e17c06de2213c0800000000000000
+      internalID: -4390395189866142376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a613f1711d1d0c0800000000000000
+      internalID: -4552627851057075709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a4406009b0269d0800000000000000
+      internalID: -2782648906557404644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu-gif_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211108426e7f09600800000000000000
+      internalID: 473150528700813586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

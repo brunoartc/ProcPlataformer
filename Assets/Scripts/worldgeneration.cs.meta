@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af80730a4b358994a907d229ab049ea8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - terrainRight: {fileID: -4247985510503474263, guid: 416db60e79e791249b23bea459836dc2, type: 3}
+  - terrainLeft: {fileID: -7708920532220806285, guid: 416db60e79e791249b23bea459836dc2, type: 3}
+  - terrainCenter: {fileID: 4564998844612868550, guid: 416db60e79e791249b23bea459836dc2, type: 3}
+  - terrain: {fileID: 2212655526663974852, guid: 61159bebdec433240b41c9e9176791cf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
