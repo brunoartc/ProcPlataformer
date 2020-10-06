@@ -25,7 +25,7 @@ public class worldgeneration : MonoBehaviour
 
 
     private float nextActionTime = 0.0f;
-    public float period = 0.1f;
+    public float timeInFramesSIncoPer = 0.1f;
 
 
 
@@ -45,6 +45,7 @@ public class worldgeneration : MonoBehaviour
     private float blockX = 0.0f;
     private float blockY = 0.0f;
 
+    private int currentFrame = 0;
 
     public int blockDifficulty = 4;
 
@@ -74,7 +75,8 @@ public class worldgeneration : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        nextActionTime = 0.0f;
+        currentFrame = 1;
+        nextActionTime = 0;
         cameraIndex = 0;
         relativeCurrentCamera = startCameraX;
         startCameraX += viewCameraSize;
@@ -84,7 +86,8 @@ public class worldgeneration : MonoBehaviour
     }
 
     void generateTerrain()
-    {   
+    {
+        currentFrame = 1;
         foreach (int indexBlock in Enumerable.Range(0, 18))
         {
             
@@ -160,7 +163,7 @@ public class worldgeneration : MonoBehaviour
 
 
                         }
-                        if (Random.Range(0.0f, 1.0f) <= randomNoGround)
+                        if (Random.Range(0.0f, 1.0f) <= randomNoGround && indexBlock > 2 && indexBlock < 17)
                         {
                             if (currentHeight > 0)
                             {
@@ -215,15 +218,23 @@ public class worldgeneration : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Time.time > nextActionTime)
+        currentFrame += 1;
+        if (_end && currentFrame > 4 + timeInFramesSIncoPer)
         {
-            if (_end) {
-                Destroy(player);
-                SceneManager.LoadScene("Menu", LoadSceneMode.Single);
-            }
-            nextActionTime += period;
-            player.GetComponent<PlayerController>().walkSpeed *= 0.95f;
-            if (player.GetComponent<PlayerController>().walkSpeed < 0.2)
+            Destroy(player);
+            SceneManager.LoadScene("Menu", LoadSceneMode.Single);
+        }
+        if (currentFrame > nextActionTime + timeInFramesSIncoPer)
+        {
+            Debug.Log("TESTE");
+            Debug.Log($"Isso : {currentFrame < nextActionTime + timeInFramesSIncoPer} eh pq { currentFrame} < {nextActionTime + timeInFramesSIncoPer}");
+            Debug.Log("TESTE");
+            Debug.Log(currentFrame);
+            Debug.Log(nextActionTime);
+            
+            nextActionTime = currentFrame + timeInFramesSIncoPer; //tava +=
+            player.GetComponent<PlayerController>().walkSpeed *= 0.80f;
+            if (player.GetComponent<PlayerController>().walkSpeed < 0.2f)
             {
                 //Destroy(player);
                 player.GetComponent<PlayerController>().walkSpeed = 0.0f;

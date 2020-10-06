@@ -31,4 +31,10 @@ public class startGame : MonoBehaviour
         }
         _buttonText.SetText("Certeza?");
     }
+
+    public void ExitGame()
+    {
+        Application.Quit();
+    }
+
 }

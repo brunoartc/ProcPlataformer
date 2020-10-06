@@ -7,6 +7,8 @@ using UnityEngine.SocialPlatforms.Impl;
 public class PlayerController : MonoBehaviour
 {
 
+    public Animator anim;
+
     public CharacterController2D.CharacterCollisionState2D flags;
     public float walkSpeed = 4.0f;     // Depois de incluido, alterar no Unity Editor
     public float jumpSpeed = 8.0f;     // Depois de incluido, alterar no Unity Editor
@@ -15,6 +17,7 @@ public class PlayerController : MonoBehaviour
     const float orgSpeed = 2.2f;
 
     public bool isGrounded;     // Se está no chão
+    public bool isHeadHitting;     // Se está no chão
     public bool isJumping;      // Se está pulando
 
     private int playerScore = 0;
@@ -60,11 +63,37 @@ public class PlayerController : MonoBehaviour
             }
         }
 
+        if (moveDirection.x != 0.0f)
+        {
+            anim.SetBool("Run", true);
+            anim.SetBool("Jump", false);
+        }
+
+        if (moveDirection.y != 0.0f)
+        {
+            anim.SetBool("Run", false);
+            anim.SetBool("Jump", true);
+        }
+
+        if (moveDirection.y == 0.0f && moveDirection.x == 0.0f)
+        {
+            anim.SetBool("Run", false);
+            anim.SetBool("Jump", false);
+        }
+
+
+        if (isHeadHitting)
+        {            // caso esteja no chão
+            moveDirection.y = 0.0f;    // se no chão nem subir nem descer
+            moveDirection.x = 0.0f;    // se no chão nem subir nem descer
+        }
+
         moveDirection.y -= gravity * Time.deltaTime;    // aplica a gravidade
         characterController.move(moveDirection * Time.deltaTime);   // move personagem	
 
         flags = characterController.collisionState;     // recupera flags
         isGrounded = flags.below;				// define flag de chão
+        isHeadHitting = flags.above;
 
     }
 }

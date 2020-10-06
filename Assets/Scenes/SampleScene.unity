@@ -264,10 +264,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _cansou: {fileID: 1621513219}
   randomChangeHeight: 0.6
-  randomNoGround: 0.4
+  randomNoGround: 0.35
   randomReturnGround: 0.3
-  randomCoffeeChance: 0.1
-  period: 1
+  randomCoffeeChance: 0.05
+  timeInFramesSIncoPer: 200
   startCameraX: -2.87
   viewCameraSize: 5.74
   lowestBlockHeight: -1.45
@@ -672,7 +672,7 @@ Animator:
   m_Controller: {fileID: 9100000, guid: 42af431b5a541e74fa8f867be15d0780, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
-  m_ApplyRootMotion: 0
+  m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
@@ -797,11 +797,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e56ac97370b88844a9aecbbd11a2da2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  anim: {fileID: 1664442711}
   walkSpeed: 2.2
   jumpSpeed: 4.5
   gravity: 9
-  orgSpeed: 2.2
   isGrounded: 0
+  isHeadHitting: 0
   isJumping: 0
 --- !u!82 &1664442716
 AudioSource:
